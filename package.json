@@ -1,0 +1,19 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Curso JS com TDD na prática - William Justen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliasfaical/js-tdd-course.git"
+  },
+  "author": "Elias Faiçal <eliasfaical@gmail.com> (http://eliasfaical.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eliasfaical/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/eliasfaical/js-tdd-course#readme"
+}
