@@ -49,5 +49,5 @@
 
 
 ### Links Importantes: - husky
-Husky => https://github.com/typicode/husky
-Uma explicação sobre Git Hooks => https://git-scm.com/book/it/v2/Customizing-Git-Git...
+1. Husky => https://github.com/typicode/husky
+2. Uma explicação sobre Git Hooks => https://git-scm.com/book/it/v2/Customizing-Git-Git...
