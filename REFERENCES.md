@@ -38,3 +38,7 @@
 4. Jshint            => http://jshint.com/
 5. JSCS              => http://jscs.info/
 6. Eslint            => http://eslint.org/
+
+
+### Links Importantes: - Editorconfig
+1. Editorconfig => http://editorconfig.org/
