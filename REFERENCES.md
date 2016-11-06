@@ -42,3 +42,8 @@
 
 ### Links Importantes: - Editorconfig
 1. Editorconfig => http://editorconfig.org/
+
+
+### Links Importantes: - NPM Scripts
+* Vale dar uma lida nesse link sobre "Por que usar NPM Scripts?", existem vários comandos e detalhes legais => https://css-tricks.com/why-npm-scripts/
+
