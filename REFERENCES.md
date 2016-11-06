@@ -47,3 +47,7 @@
 ### Links Importantes: - NPM Scripts
 * Vale dar uma lida nesse link sobre "Por que usar NPM Scripts?", existem vários comandos e detalhes legais => https://css-tricks.com/why-npm-scripts/
 
+
+### Links Importantes: - husky
+Husky => https://github.com/typicode/husky
+Uma explicação sobre Git Hooks => https://git-scm.com/book/it/v2/Customizing-Git-Git...
