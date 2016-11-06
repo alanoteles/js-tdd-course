@@ -2,46 +2,46 @@
 
 
 ### Requisitos Básicos:
-1. Git             => https://git-scm.com
-2. Node e NPM      => https://nodejs.org/en/
-3. Conta no Github => https://github.com/
-4. Conta no Travis => https://travis-ci.org/
+* Git             => https://git-scm.com
+* Node e NPM      => https://nodejs.org/en/
+* Conta no Github => https://github.com/
+* Conta no Travis => https://travis-ci.org/
 
 ### Extras:
-1. Canal do Slack       => http://slack-willianjusten.herokuapp.com/
-2. Repositório do Curso => https://github.com/willianjusten/js-tdd-course
+* Canal do Slack       => http://slack-willianjusten.herokuapp.com/
+* Repositório do Curso => https://github.com/willianjusten/js-tdd-course
 
 
 ### Links Importantes: - NPM
-1. Cadastrar no NPM              => https://www.npmjs.com/signup
-2. Documentação Completa do NPM  => https://docs.npmjs.com/
-3. Documentação do Config do NPM => https://docs.npmjs.com/misc/config
+* Cadastrar no NPM              => https://www.npmjs.com/signup
+* Documentação Completa do NPM  => https://docs.npmjs.com/
+* Documentação do Config do NPM => https://docs.npmjs.com/misc/config
 
 
 ### Links Importantes: - Gitignore
-1. Pacote para o gitignore => https://www.npmjs.com/package/gitignore
+* Pacote para o gitignore => https://www.npmjs.com/package/gitignore
 
 
 ### Links Importantes: - Documentação
-1. Awesome Readme                 => https://github.com/matiassingers/awesome-readme
-2. Exemplo de documentação (Lyef) => https://github.com/lyef/lyef-react-component
-3. Template para Readme           => https://gist.github.com/PurpleBooth/109311bb0361f3..
-4. Site do Opensource             => https://opensource.org/
-5. Lista das Licenças             => https://opensource.org/licenses
-6. Licença do MIT                 => https://opensource.org/licenses/MIT
+* Awesome Readme                 => https://github.com/matiassingers/awesome-readme
+* Exemplo de documentação (Lyef) => https://github.com/lyef/lyef-react-component
+* Template para Readme           => https://gist.github.com/PurpleBooth/109311bb0361f3..
+* Site do Opensource             => https://opensource.org/
+* Lista das Licenças             => https://opensource.org/licenses
+* Licença do MIT                 => https://opensource.org/licenses/MIT
 
 
 ### Links Importantes: - Styleguides
-1. Styleguide Airbnb => https://github.com/airbnb/javascript
-2. Standard          => https://github.com/feross/standard
-3. Idiomatic         => https://github.com/rwaldron/idiomatic.js/
-4. Jshint            => http://jshint.com/
-5. JSCS              => http://jscs.info/
-6. Eslint            => http://eslint.org/
+* Styleguide Airbnb => https://github.com/airbnb/javascript
+* Standard          => https://github.com/feross/standard
+* Idiomatic         => https://github.com/rwaldron/idiomatic.js/
+* Jshint            => http://jshint.com/
+* JSCS              => http://jscs.info/
+* Eslint            => http://eslint.org/
 
 
 ### Links Importantes: - Editorconfig
-1. Editorconfig => http://editorconfig.org/
+* Editorconfig => http://editorconfig.org/
 
 
 ### Links Importantes: - NPM Scripts
@@ -49,5 +49,5 @@
 
 
 ### Links Importantes: - husky
-1. Husky => https://github.com/typicode/husky
-2. Uma explicação sobre Git Hooks => https://git-scm.com/book/it/v2/Customizing-Git-Git...
+* Husky => https://github.com/typicode/husky
+* Uma explicação sobre Git Hooks => https://git-scm.com/book/it/v2/Customizing-Git-Git...
